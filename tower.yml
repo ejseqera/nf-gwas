@@ -1,0 +1,7 @@
+reports:
+  index.html:
+    display: "GWAS Report"
+  "**/index_reports/**/*.manhattan.html":
+    display: "Manhattan Plots"
+  "**/index_reports/**/*.regenie.html":
+    display: "Regenie Report"
